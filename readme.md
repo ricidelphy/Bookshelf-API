@@ -4,7 +4,9 @@
 ### Tutorial
 
 - Clone this Repo
-
+```bash
+https://github.com/ricidelphy/Bookshelf-API.git
+```
 - cd Bookshelf-API
 ```bash
 cd Bookshelf-API
